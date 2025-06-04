@@ -1,1 +1,6 @@
 apis.csv
+urls.txt
+.*
+.specstory/
+# SpecStory explanation file
+.specstory/.what-is-this.md
